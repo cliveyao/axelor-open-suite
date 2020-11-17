@@ -15,6 +15,7 @@
  * You should have received a copy of the GNU Affero General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
+//test
 package com.axelor.apps.account.db.repo;
 
 import com.axelor.apps.account.db.Account;
