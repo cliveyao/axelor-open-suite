@@ -1,4 +1,4 @@
-/*
+/* test
  * Axelor Business Solutions
  *
  * Copyright (C) 2020 Axelor (<http://axelor.com>).
